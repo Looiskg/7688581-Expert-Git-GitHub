@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+- installer git, github
 ```
 
 
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* Moi et 
 
 ## License
 
